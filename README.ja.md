@@ -1,3 +1,5 @@
+[jsrsasign](https://github.com/kjur/jsrsasign/) | [他のアドオン](https://github.com/kjur/jsrsasign/wiki/jsrsasign-Add-On) | [English](README.md)
+
 # jsrsasign-oid-jpki
 [jsrsasign](https://github.com/kjur/jsrsasign)は、JavaScript実装の暗号、PKIライブラリです。jsrsasignはアドオンで拡張することが可能で、本パッケージを追加することで、公的個人認証証明書で使われるオブジェクト識別子とその名前の定義をjsrsasignに追加することができます。
 
